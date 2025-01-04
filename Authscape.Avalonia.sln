@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authscape.Avalonia", "Authscape.Avalonia.csproj", "{E1E80AC7-ADFD-450D-BB30-86FD5CBE12E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthScape.Client", "..\..\AuthScape.Client\AuthScape.Client.csproj", "{5D8B5721-946B-42D8-8412-A093F6BCFF1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E1E80AC7-ADFD-450D-BB30-86FD5CBE12E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1E80AC7-ADFD-450D-BB30-86FD5CBE12E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1E80AC7-ADFD-450D-BB30-86FD5CBE12E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D8B5721-946B-42D8-8412-A093F6BCFF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8B5721-946B-42D8-8412-A093F6BCFF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8B5721-946B-42D8-8412-A093F6BCFF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8B5721-946B-42D8-8412-A093F6BCFF1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
