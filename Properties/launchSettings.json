@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Authscape.Avalonia": {
+      "commandName": "Project"
+    },
+    "WSL : Ubuntu 24.04": {
+      "commandName": "WSL",
+      "distributionName": "Ubuntu"
+    }
+  }
+}
